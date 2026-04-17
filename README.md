@@ -24,7 +24,11 @@ A machine learning-based crop recommendation system that suggests the most suita
 * Model provides probabilistic recommendations
 
 ---
+## 📷 Application Preview
 
+![App Screenshot](assets/app.png)
+
+---
 ## ⚙️ Tech Stack
 
 * Python
