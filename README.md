@@ -26,8 +26,7 @@ A machine learning-based crop recommendation system that suggests the most suita
 ---
 ## 📷Application Preview
 
-![App Screenshot](assets/app.png)
-
+![App Screenshot](https://raw.githubusercontent.com/abhinaya06-tech/crop-recommendation-ml/main/assets/app.png)
 ---
 ## ⚙️ Tech Stack
 
