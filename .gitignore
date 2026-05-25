@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
-model/model.pkl
 .env
 venv/
